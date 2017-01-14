@@ -1,0 +1,31 @@
+{
+  "name": "bangunyan",
+  "version": "0.0.1",
+  "description": "Another front-end for bangumi data",
+  "author": "kagami <seki@kagami.moe> (http://kagami.me)",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-preset-es2016": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "eslint": "^3.13.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-config-google": "^0.7.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0",
+    "semantic-ui-react": "^0.64.0",
+    "webpack": "^2.2.0-rc.4"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0"
+  }
+}
